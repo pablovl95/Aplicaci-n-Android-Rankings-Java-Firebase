@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Rankers</string>
+    <string name="personajes_prompt">Seleccione un personaje</string>
+    <string name="descripcion_hint">Aqui puedes dar tus agumentos del voto</string>
+    <!-- Otras cadenas aquí -->
+</resources>
+
