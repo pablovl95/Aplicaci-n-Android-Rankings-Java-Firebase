@@ -5,13 +5,14 @@ Esta aplicación te permite crear un ranking en la base de datos gratuita de Fir
 ![Inicio Sesion](https://github.com/pablovl95/Aplicaci-n-Android-Rankings-Java-Firebase/assets/73790559/f4ea5a4c-772e-4f0f-bfa5-08e46fc585b6)
 ![Registro](https://github.com/pablovl95/Aplicaci-n-Android-Rankings-Java-Firebase/assets/73790559/6654a826-975c-4c23-b950-1422d68cda92)
 
-![Ranking](https://github.com/pablovl95/Aplicaci-n-Android-Rankings-Java-Firebase/assets/73790559/6c07fc40-bb0e-49e4-a480-4ff108a26bb6)
-![Salir de Sesion](https://github.com/pablovl95/Aplicaci-n-Android-Rankings-Java-Firebase/assets/73790559/c6b112e7-167d-4e97-9424-ffd55f76df02)
+![Salir de Sesion](https://github.com/pablovl95/Aplicaci-n-Android-Rankings-Java-Firebase/assets/73790559/6c07fc40-bb0e-49e4-a480-4ff108a26bb6)
+![Ranking](https://github.com/pablovl95/Aplicaci-n-Android-Rankings-Java-Firebase/assets/73790559/c6b112e7-167d-4e97-9424-ffd55f76df02)
 
-![Captura de pantalla 2024-02-08 181014](https://github.com/pablovl95/Aplicaci-n-Android-Rankings-Java-Firebase/assets/73790559/e51d0648-411b-461f-b7fa-f62c6fb5f836)
+
 ![Captura de pantalla 2024-02-08 180935](https://github.com/pablovl95/Aplicaci-n-Android-Rankings-Java-Firebase/assets/73790559/d7d50d08-2c11-4eb9-b4e3-f22f91d2fc91)
 ![Captura de pantalla 2024-02-08 180918](https://github.com/pablovl95/Aplicaci-n-Android-Rankings-Java-Firebase/assets/73790559/c575b44e-9a69-4aa2-aa2a-219031b5a115)
 
+![Captura de pantalla 2024-02-08 181014](https://github.com/pablovl95/Aplicaci-n-Android-Rankings-Java-Firebase/assets/73790559/e51d0648-411b-461f-b7fa-f62c6fb5f836)
 
 
 ### Configuración ###
